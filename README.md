@@ -189,8 +189,6 @@ Complete architecture diagram of my enterprise VPS infrastructure featuring **7+
 
 ---
 
----
-
 ## 🎯 Key Features
 
 ### 🧠 **Local AI Processing**
@@ -213,11 +211,9 @@ Complete architecture diagram of my enterprise VPS infrastructure featuring **7+
 
 ### 📊 **Production Services**
 - 4 WordPress sites with AI chatbots
-- [NotionAiAssistant](https://github.com/igorhlr/NotionAiAssistant) with independent CI/CD
+- [NotionAiAssistant](https://github.com/igorhlr/NotionAiAssistant) with independent [CI/CD](https://github.com/igorhlr/NotionAiAssistant/actions/runs/16151487483)
 - Documentation platform with auto-deployment
 - Development environments accessible via browser
-
----
 
 ---
 
@@ -301,7 +297,7 @@ Active Projects:  5
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **NotionAiAssistant** | MCP-powered Notion integration | [GitHub](https://github.com/igorhlr/NotionAiAssistant) |
+| **NotionAiAssistant** | Notion integration | [GitHub](https://github.com/igorhlr/NotionAiAssistant) |
 | **Live Demo** | NotionAssistant in action | [Demo](https://notionassistant.llmway.com.br) |
 | **Documentation** | Technical documentation | [Docs](https://docs.notionassistant.llmway.com.br) |
 | **AI Platform** | MaxKB/Agently | [Platform](https://agently.llmway.com.br) |
