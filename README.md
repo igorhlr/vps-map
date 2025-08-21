@@ -279,7 +279,7 @@ Active Projects:  5
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **NotionAiAssistant** | MCP-powered Notion integration | [GitHub](https://github.com/igorhlr/NotionAiAssistant) |
+| **NotionAiAssistant** | Notion integration | [GitHub](https://github.com/igorhlr/NotionAiAssistant) |
 | **Live Demo** | NotionAssistant in action | [Demo](https://notionassistant.llmway.com.br) |
 | **Documentation** | Technical documentation | [Docs](https://docs.notionassistant.llmway.com.br) |
 | **AI Platform** | MaxKB/Agently | [Platform](https://agently.llmway.com.br) |
