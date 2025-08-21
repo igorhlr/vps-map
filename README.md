@@ -193,7 +193,7 @@ Complete architecture diagram of my enterprise VPS infrastructure featuring **7+
 
 ### 📊 **Production Services**
 - 4 WordPress sites with AI chatbots
-- [NotionAiAssistant](https://github.com/igorhlr/NotionAiAssistant) with independent CI/CD
+- [NotionAiAssistant](https://github.com/igorhlr/NotionAiAssistant) with independent [CI/CD](https://github.com/igorhlr/NotionAiAssistant/actions/runs/16151487483)
 - Documentation platform with auto-deployment
 - Development environments accessible via browser
 
