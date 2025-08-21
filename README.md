@@ -171,8 +171,6 @@ Complete architecture diagram of my enterprise VPS infrastructure featuring **7+
 
 ---
 
----
-
 ## 🎯 Key Features
 
 ### 🧠 **Local AI Processing**
@@ -198,8 +196,6 @@ Complete architecture diagram of my enterprise VPS infrastructure featuring **7+
 - [NotionAiAssistant](https://github.com/igorhlr/NotionAiAssistant) with independent CI/CD
 - Documentation platform with auto-deployment
 - Development environments accessible via browser
-
----
 
 ---
 
