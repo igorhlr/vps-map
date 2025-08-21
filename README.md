@@ -155,29 +155,18 @@ graph TB
 
 ### Workflow Overview
 ![Local embeddings configuration](screenshots/map-config-emb.png)
+</br></br></br>
+
 <div class="galeria">
   <img src="screenshots/3.png" alt="Foto 4">
+  </br></br></br>
   <img src="screenshots/2.png" alt="Foto 2">
+  </br></br></br>
   <img src="screenshots/1.png" alt="Foto 1">
+  </br></br></br>
   <img src="screenshots/4.png" alt="Foto 3">
 </div>
-
-<style>
-.galeria {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr); /* 2 colunas */
-  gap: 20px; /* mais espaço entre elas */
-  max-width: 1200px; /* DOBREI de 600px para 1200px */
-  margin: auto;
-}
-
-.galeria img {
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-  object-fit: cover;
-}
-</style>
+  </br></br></br></br></br>
 
 </div>
 
