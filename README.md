@@ -5,33 +5,6 @@
 [![Uptime](https://img.shields.io/badge/Uptime-99.9%25-brightgreen?style=for-the-badge)](https://github.com/igorhlr/vps-map)
 [![Cost Saving](https://img.shields.io/badge/Cost%20Saving-90%25-orange?style=for-the-badge)](https://github.com/igorhlr/vps-map)
 
-
-<details>
-<summary><b>📸 Click to view Full Screenshots</b></summary>
-
-<div align="center">
-
-### Infrastructure Overview
-![Infrastructure Overview](screenshots/1panel.png)
-
-### Metrics Overview
-![AI Platform](screenshots/metrics-chat.png)
-
-### Models Overview
-![*Local embeddings](screenshots/emb-models.png)
-
-### Workflow Overview
-![Local embeddings configuration](screenshots/map-config-emb.png)
-
-### Online Vscode Overview
-![vscode configuration](screenshots/vscode.png)
-
-
-</div>
-
-</details>
-
-
 <details>
 <summary><b>🗺️ Click to view Full Architecture Diagram</b></summary>
 
@@ -163,7 +136,52 @@ graph TB
 
 </details>
 
+<details>
+<summary><b>📸 Click to view Full Screenshots</b></summary>
 
+<div align="center">
+
+### Online Vscode Overview
+![vscode configuration](screenshots/vscode.png)
+
+### Infrastructure Overview
+![Infrastructure Overview](screenshots/1panel.png)
+
+### Metrics Overview
+![AI Platform](screenshots/metrics-chat.png)
+
+### Models Overview
+![*Local embeddings](screenshots/emb-models.png)
+
+### Workflow Overview
+![Local embeddings configuration](screenshots/map-config-emb.png)
+<div class="galeria">
+  <img src="screenshots/3.png" alt="Foto 4">
+  <img src="screenshots/2.png" alt="Foto 2">
+  <img src="screenshots/1.png" alt="Foto 1">
+  <img src="screenshots/4.png" alt="Foto 3">
+</div>
+
+<style>
+.galeria {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 colunas */
+  gap: 20px; /* mais espaço entre elas */
+  max-width: 1200px; /* DOBREI de 600px para 1200px */
+  margin: auto;
+}
+
+.galeria img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+}
+</style>
+
+</div>
+
+</details>
 
 ## 📊 Overview
 
